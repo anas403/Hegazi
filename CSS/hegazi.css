@@ -137,6 +137,7 @@ ul {
     width: 204px;
     background-repeat: no-repeat;
     position: absolute;
+    z-index: -1;
 }
 
 .dots-up {
